@@ -1,0 +1,3 @@
+# Force GitHub to recognize the main language as C#
+*.cs linguist-language=C#
+*.ipynb linguist-language=Jupyter Notebook
