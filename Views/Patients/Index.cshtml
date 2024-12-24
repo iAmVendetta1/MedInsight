@@ -13,15 +13,7 @@
     <thead>
         <tr>
             <th>@Html.DisplayNameFor(model => model.Name)</th>
-            <th>@Html.DisplayNameFor(model => model.Age)</th>
-            <th>@Html.DisplayNameFor(model => model.Gender)</th>
-            <th>@Html.DisplayNameFor(model => model.BloodPressure)</th>
-            <th>@Html.DisplayNameFor(model => model.CholesterolLevel)</th>
-            <th>@Html.DisplayNameFor(model => model.Fever)</th>
-            <th>@Html.DisplayNameFor(model => model.Cough)</th>
-            <th>@Html.DisplayNameFor(model => model.Fatigue)</th>
-            <th>@Html.DisplayNameFor(model => model.DifficultyBreathing)</th>
-            <th>@Html.DisplayNameFor(model => model.DiseasePrediction)</th>
+            <th>@Html.DisplayNameFor(model => model.Prognosis)</th>
             <th></th>
         </tr>
     </thead>
@@ -29,21 +21,13 @@
         @foreach (var item in Model)
         {
             <tr>
-                <td>@Html.DisplayFor(modelItem => item.Name)</td>
-                <td>@Html.DisplayFor(modelItem => item.Age)</td>
-                <td>@Html.DisplayFor(modelItem => item.Gender)</td>
-                <td>@Html.DisplayFor(modelItem => item.BloodPressure)</td>
-                <td>@Html.DisplayFor(modelItem => item.CholesterolLevel)</td>
-                <td>@Html.DisplayFor(modelItem => item.Fever)</td>
-                <td>@Html.DisplayFor(modelItem => item.Cough)</td>
-                <td>@Html.DisplayFor(modelItem => item.Fatigue)</td>
-                <td>@Html.DisplayFor(modelItem => item.DifficultyBreathing)</td>
-                <td>@Html.DisplayFor(modelItem => item.DiseasePrediction)</td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                </td>
+            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+            <th>@Html.DisplayNameFor(model => model.Prognosis)</th>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
             </tr>
         }
     </tbody>

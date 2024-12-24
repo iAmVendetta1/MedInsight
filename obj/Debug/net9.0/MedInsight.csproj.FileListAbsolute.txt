@@ -244,6 +244,7 @@ C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.csproj.Co
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.RazorAssemblyInfo.cache
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.RazorAssemblyInfo.cs
+C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.sourcelink.json
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\scopedcss\bundle\MedInsight.styles.css
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\scopedcss\projectbundle\MedInsight.bundle.scp.css

@@ -4,14 +4,137 @@
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
-        public string Fever { get; set; } = string.Empty;
-        public string Cough { get; set; } = string.Empty;
-        public string Fatigue { get; set; } = string.Empty;
-        public string DifficultyBreathing { get; set; } = string.Empty;
-        public int Age { get; set; }
-        public string Gender { get; set; } = string.Empty;
-        public string BloodPressure { get; set; } = string.Empty;
-        public string CholesterolLevel { get; set; } = string.Empty;
-        public string DiseasePrediction { get; set; } = string.Empty;
+        public bool Itching { get; set; }
+        public bool SkinRash { get; set; }
+        public bool NodalSkinEruptions { get; set; }
+        public bool ContinuousSneezing { get; set; }
+        public bool Shivering { get; set; }
+        public bool Chills { get; set; }
+        public bool JointPain { get; set; }
+        public bool StomachPain { get; set; }
+        public bool Acidity { get; set; }
+        public bool UlcersOnTongue { get; set; }
+        public bool MuscleWasting { get; set; }
+        public bool Vomiting { get; set; }
+        public bool BurningMicturition { get; set; }
+        public bool SpottingUrination { get; set; }
+        public bool Fatigue { get; set; }
+        public bool WeightGain { get; set; }
+        public bool Anxiety { get; set; }
+        public bool ColdHandsAndFeet { get; set; }
+        public bool MoodSwings { get; set; }
+        public bool WeightLoss { get; set; }
+        public bool Restlessness { get; set; }
+        public bool Lethargy { get; set; }
+        public bool PatchesInThroat { get; set; }
+        public bool IrregularSugarLevel { get; set; }
+        public bool Cough { get; set; }
+        public bool HighFever { get; set; }
+        public bool SunkenEyes { get; set; }
+        public bool Breathlessness { get; set; }
+        public bool Sweating { get; set; }
+        public bool Dehydration { get; set; }
+        public bool Indigestion { get; set; }
+        public bool Headache { get; set; }
+        public bool YellowishSkin { get; set; }
+        public bool DarkUrine { get; set; }
+        public bool Nausea { get; set; }
+        public bool LossOfAppetite { get; set; }
+        public bool PainBehindTheEyes { get; set; }
+        public bool BackPain { get; set; }
+        public bool Constipation { get; set; }
+        public bool AbdominalPain { get; set; }
+        public bool Diarrhea { get; set; }
+        public bool MildFever { get; set; }
+        public bool YellowUrine { get; set; }
+        public bool YellowingOfEyes { get; set; }
+        public bool AcuteLiverFailure { get; set; }
+        public bool SwellingOfStomach { get; set; }
+        public bool SwelledLymphNodes { get; set; }
+        public bool Malaise { get; set; }
+        public bool BlurredAndDistortedVision { get; set; }
+        public bool Phlegm { get; set; }
+        public bool ThroatIrritation { get; set; }
+        public bool RednessOfEyes { get; set; }
+        public bool SinusPressure { get; set; }
+        public bool RunnyNose { get; set; }
+        public bool Congestion { get; set; }
+        public bool ChestPain { get; set; }
+        public bool WeaknessInLimbs { get; set; }
+        public bool FastHeartRate { get; set; }
+        public bool PainDuringBowelMovements { get; set; }
+        public bool PainInAnalRegion { get; set; }
+        public bool BloodyStool { get; set; }
+        public bool IrritationInAnus { get; set; }
+        public bool NeckPain { get; set; }
+        public bool Dizziness { get; set; }
+        public bool Cramps { get; set; }
+        public bool Bruising { get; set; }
+        public bool Obesity { get; set; }
+        public bool SwollenLegs { get; set; }
+        public bool SwollenBloodVessels { get; set; }
+        public bool PuffyFaceAndEyes { get; set; }
+        public bool EnlargedThyroid { get; set; }
+        public bool BrittleNails { get; set; }
+        public bool SwollenExtremeties { get; set; }
+        public bool ExcessiveHunger { get; set; }
+        public bool ExtraMaritalContacts { get; set; }
+        public bool DryingAndTinglingLips { get; set; }
+        public bool SlurredSpeech { get; set; }
+        public bool KneePain { get; set; }
+        public bool HipJointPain { get; set; }
+        public bool MuscleWeakness { get; set; }
+        public bool StiffNeck { get; set; }
+        public bool SwellingJoints { get; set; }
+        public bool MovementStiffness { get; set; }
+        public bool SpinningMovements { get; set; }
+        public bool LossOfBalance { get; set; }
+        public bool Unsteadiness { get; set; }
+        public bool WeaknessOfOneBodySide { get; set; }
+        public bool LossOfSmell { get; set; }
+        public bool BladderDiscomfort { get; set; }
+        public bool FoulSmellOfUrine { get; set; }
+        public bool ContinuousFeelOfUrine { get; set; }
+        public bool PassageOfGases { get; set; }
+        public bool InternalItching { get; set; }
+        public bool ToxicLook_Typhos { get; set; }
+        public bool Depression { get; set; }
+        public bool Irritability { get; set; }
+        public bool MusclePain { get; set; }
+        public bool AlteredSensorium { get; set; }
+        public bool RedSpotsOverBody { get; set; }
+        public bool BellyPain { get; set; }
+        public bool AbnormalMenstruation { get; set; }
+        public bool DischromicPatches { get; set; }
+        public bool WateringFromEyes { get; set; }
+        public bool IncreasedAppetite { get; set; }
+        public bool Polyuria { get; set; }
+        public bool FamilyHistory { get; set; }
+        public bool MucoidSputum { get; set; }
+        public bool RustySputum { get; set; }
+        public bool LackOfConcentration { get; set; }
+        public bool VisualDisturbances { get; set; }
+        public bool ReceivingBloodTransfusion { get; set; }
+        public bool ReceivingUnsterileInjections { get; set; }
+        public bool Coma { get; set; }
+        public bool StomachBleeding { get; set; }
+        public bool DistentionOfAbdomen { get; set; }
+        public bool HistoryOfAlcoholConsumption { get; set; }
+        public bool fluid_overload { get; set; }
+        public bool BloodInSputum { get; set; }
+        public bool ProminentVeinsOnCalf { get; set; }
+        public bool Palpitations { get; set; }
+        public bool PainfulWalking { get; set; }
+        public bool PusFilledPimples { get; set; }
+        public bool Blackheads { get; set; }
+        public bool Scurring { get; set; }
+        public bool SkinPeeling { get; set; }
+        public bool SilverLikeDusting { get; set; }
+        public bool SmallDentsInNails { get; set; }
+        public bool InflammatoryNails { get; set; }
+        public bool Blister { get; set; }
+        public bool RedSoreAroundNose { get; set; }
+        public bool YellowCrustOoze { get; set; }
+        public string Prognosis { get; set; } = string.Empty;
     }
 }
