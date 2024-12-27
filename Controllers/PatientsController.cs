@@ -51,7 +51,18 @@ namespace MedInsight.Controllers
         // POST: Patients/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Fever,Cough,Fatigue,DifficultyBreathing,Age,Gender,BloodPressure,CholesterolLevel,DiseasePrediction")] Patient patient)
+        public async Task<IActionResult> Create([Bind("Name, Itching, SkinRash, NodalSkinEruptions, ContinuousSneezing, Shivering, Chills, JointPain, StomachPain, Acidity, UlcersOnTongue, " +
+            "MuscleWasting, Vomiting, BurningMicturition, SpottingUrination, Fatigue, WeightGain, Anxiety, ColdHandsAndFeet, MoodSwings, WeightLoss, Restlessness, Lethargy, PatchesInThroat, " +
+            "IrregularSugarLevel, Cough, HighFever, SunkenEyes, Breathlessness, Sweating, Dehydration, Indigestion, Headache, YellowishSkin, DarkUrine, Nausea, LossOfAppetite, PainBehindTheEyes, " +
+            "BackPain, Constipation, AbdominalPain, Diarrhea, MildFever, YellowUrine, YellowingOfEyes, AcuteLiverFailure, SwellingOfStomach, SwelledLymphNodes, Malaise, BlurredAndDistortedVision, " +
+            "Phlegm, ThroatIrritation, RednessOfEyes, SinusPressure, RunnyNose, Congestion, ChestPain, WeaknessInLimbs, FastHeartRate, PainDuringBowelMovements, PainInAnalRegion, BloodyStool, " +
+            "IrritationInAnus, NeckPain, Dizziness, Cramps, Bruising, Obesity, SwollenLegs, SwollenBloodVessels, PuffyFaceAndEyes, EnlargedThyroid, BrittleNails, SwollenExtremeties, ExcessiveHunger, " +
+            "ExtraMaritalContacts, DryingAndTinglingLips, SlurredSpeech, KneePain, HipJointPain, MuscleWeakness, StiffNeck, SwellingJoints, MovementStiffness, SpinningMovements, LossOfBalance, " +
+            "Unsteadiness, WeaknessOfOneBodySide, LossOfSmell, BladderDiscomfort, FoulSmellOfUrine, ContinuousFeelOfUrine, PassageOfGases, InternalItching, ToxicLook_Typhos, Depression, Irritability, " +
+            "MusclePain, AlteredSensorium, RedSpotsOverBody, BellyPain, AbnormalMenstruation, DischromicPatches, WateringFromEyes, IncreasedAppetite, Polyuria, FamilyHistory, MucoidSputum, RustySputum, " +
+            "LackOfConcentration, VisualDisturbances, ReceivingBloodTransfusion, ReceivingUnsterileInjections, Coma, StomachBleeding, DistentionOfAbdomen, HistoryOfAlcoholConsumption, fluid_overload, " +
+            "BloodInSputum, ProminentVeinsOnCalf, Palpitations, PainfulWalking, PusFilledPimples, Blackheads, Scurring, SkinPeeling, SilverLikeDusting, SmallDentsInNails, InflammatoryNails, Blister, " +
+            "RedSoreAroundNose, YellowCrustOoze, Prognosis")] Patient patient)
         {
             if (ModelState.IsValid)
             {
