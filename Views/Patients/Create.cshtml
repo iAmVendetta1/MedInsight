@@ -19,655 +19,660 @@
             </div>
             <div class="form-group">
                 <label asp-for="Itching" class="control-label"></label>
-                <input asp-for="Itching" type="checkbox" />
+                <input type="checkbox" name="Itching" value="1" @(Model?.Itching == 1 ? "checked" : "") />
                 <span asp-validation-for="Itching" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SkinRash" class="control-label"></label>
-                <input asp-for="SkinRash" type="checkbox" />
+                <input type="checkbox" name="SkinRash" value="1" @(Model?.SkinRash == 1 ? "checked" : "") />
                 <span asp-validation-for="SkinRash" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="NodalSkinEruptions" class="control-label"></label>
-                <input asp-for="NodalSkinEruptions" type="checkbox" />
+                <input type="checkbox" name="NodalSkinEruptions" value="1" @(Model?.NodalSkinEruptions == 1 ? "checked" : "") />
                 <span asp-validation-for="NodalSkinEruptions" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ContinuousSneezing" class="control-label"></label>
-                <input asp-for="ContinuousSneezing" type="checkbox" />
+                <input type="checkbox" name="ContinuousSneezing" value="1" @(Model?.ContinuousSneezing == 1 ? "checked" : "") />
                 <span asp-validation-for="ContinuousSneezing" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Shivering" class="control-label"></label>
-                <input asp-for="Shivering" type="checkbox" />
+                <input type="checkbox" name="Shivering" value="1" @(Model?.Shivering == 1 ? "checked" : "") />
                 <span asp-validation-for="Shivering" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Chills" class="control-label"></label>
-                <input asp-for="Chills" type="checkbox" />
+                <input type="checkbox" name="Chills" value="1" @(Model?.Chills == 1 ? "checked" : "") />
                 <span asp-validation-for="Chills" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="JointPain" class="control-label"></label>
-                <input asp-for="JointPain" type="checkbox" />
+                <input type="checkbox" name="JointPain" value="1" @(Model?.JointPain == 1 ? "checked" : "") />
                 <span asp-validation-for="JointPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="StomachPain" class="control-label"></label>
-                <input asp-for="StomachPain" type="checkbox" />
+                <input type="checkbox" name="StomachPain" value="1" @(Model?.StomachPain == 1 ? "checked" : "") />
                 <span asp-validation-for="StomachPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Acidity" class="control-label"></label>
-                <input asp-for="Acidity" type="checkbox" />
+                <input type="checkbox" name="Acidity" value="1" @(Model?.Acidity == 1 ? "checked" : "") />
                 <span asp-validation-for="Acidity" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="UlcersOnTongue" class="control-label"></label>
-                <input asp-for="UlcersOnTongue" type="checkbox" />
+                <input type="checkbox" name="UlcersOnTongue" value="1" @(Model?.UlcersOnTongue == 1 ? "checked" : "") />
                 <span asp-validation-for="UlcersOnTongue" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="MuscleWasting" class="control-label"></label>
-                <input asp-for="MuscleWasting" type="checkbox" />
+                <input type="checkbox" name="MuscleWasting" value="1" @(Model?.MuscleWasting == 1 ? "checked" : "") />
                 <span asp-validation-for="MuscleWasting" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Vomiting" class="control-label"></label>
-                <input asp-for="Vomiting" type="checkbox" />
+                <input type="checkbox" name="Vomiting" value="1" @(Model?.Vomiting == 1 ? "checked" : "") />
                 <span asp-validation-for="Vomiting" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BurningMicturition" class="control-label"></label>
-                <input asp-for="BurningMicturition" type="checkbox" />
+                <input type="checkbox" name="BurningMicturition" value="1" @(Model?.BurningMicturition == 1 ? "checked" : "") />
                 <span asp-validation-for="BurningMicturition" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SpottingUrination" class="control-label"></label>
-                <input asp-for="SpottingUrination" type="checkbox" />
+                <input type="checkbox" name="SpottingUrination" value="1" @(Model?.SpottingUrination == 1 ? "checked" : "") />
                 <span asp-validation-for="SpottingUrination" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Fatigue" class="control-label"></label>
-                <input asp-for="Fatigue" type="checkbox" />
+                <input type="checkbox" name="Fatigue" value="1" @(Model?.Fatigue == 1 ? "checked" : "") />
                 <span asp-validation-for="Fatigue" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="WeightGain" class="control-label"></label>
-                <input asp-for="WeightGain" type="checkbox" />
+                <input type="checkbox" name="WeightGain" value="1" @(Model?.WeightGain == 1 ? "checked" : "") />
                 <span asp-validation-for="WeightGain" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Anxiety" class="control-label"></label>
+                <input type="checkbox" name="Anxiety" value="1" @(Model?.Anxiety == 1 ? "checked" : "") />
+                <span asp-validation-for="Anxiety" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="ColdHandsAndFeet" class="control-label"></label>
-                <input asp-for="ColdHandsAndFeet" type="checkbox" />
+                <input type="checkbox" name="ColdHandsAndFeet" value="1" @(Model?.ColdHandsAndFeet == 1 ? "checked" : "") />
                 <span asp-validation-for="ColdHandsAndFeet" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="WeightLoss" class="control-label"></label>
-                <input asp-for="WeightLoss" type="checkbox" />
-                <span asp-validation-for="WeightLoss" class="text-danger"></span>
+                <label asp-for="MoodSwings" class="control-label"></label>
+                <input type="checkbox" name="MoodSwings" value="1" @(Model?.MoodSwings == 1 ? "checked" : "") />
+                <span asp-validation-for="MoodSwings" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="WeightLoss" class="control-label"></label>
-                <input asp-for="WeightLoss" type="checkbox" />
+                <input type="checkbox" name="WeightLoss" value="1" @(Model?.WeightLoss == 1 ? "checked" : "") />
                 <span asp-validation-for="WeightLoss" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Restlessness" class="control-label"></label>
-                <input asp-for="Restlessness" type="checkbox" />
+                <input type="checkbox" name="Restlessness" value="1" @(Model?.Restlessness == 1 ? "checked" : "") />
                 <span asp-validation-for="Restlessness" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Lethargy" class="control-label"></label>
-                <input asp-for="Lethargy" type="checkbox" />
+                <input type="checkbox" name="Lethargy" value="1" @(Model?.Lethargy == 1 ? "checked" : "") />
                 <span asp-validation-for="Lethargy" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PatchesInThroat" class="control-label"></label>
-                <input asp-for="PatchesInThroat" type="checkbox" />
+                <input type="checkbox" name="PatchesInThroat" value="1" @(Model?.PatchesInThroat == 1 ? "checked" : "") />
                 <span asp-validation-for="PatchesInThroat" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="IrregularSugarLevel" class="control-label"></label>
-                <input asp-for="IrregularSugarLevel" type="checkbox" />
+                <input type="checkbox" name="IrregularSugarLevel" value="1" @(Model?.IrregularSugarLevel == 1 ? "checked" : "") />
                 <span asp-validation-for="IrregularSugarLevel" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Cough" class="control-label"></label>
+                <input type="checkbox" name="Cough" value="1" @(Model?.Cough == 1 ? "checked" : "") />
+                <span asp-validation-for="Cough" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="HighFever" class="control-label"></label>
-                <input asp-for="HighFever" type="checkbox" />
+                <input type="checkbox" name="HighFever" value="1" @(Model?.HighFever == 1 ? "checked" : "") />
                 <span asp-validation-for="HighFever" class="text-danger"></span>
             </div>
-                        <div class="form-group">
+            <div class="form-group">
                 <label asp-for="SunkenEyes" class="control-label"></label>
-                <input asp-for="SunkenEyes" type="checkbox" />
+                <input type="checkbox" name="SunkenEyes" value="1" @(Model?.SunkenEyes == 1 ? "checked" : "") />
                 <span asp-validation-for="SunkenEyes" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Breathlessness" class="control-label"></label>
-                <input asp-for="Breathlessness" type="checkbox" />
+                <input type="checkbox" name="Breathlessness" value="1" @(Model?.Breathlessness == 1 ? "checked" : "") />
                 <span asp-validation-for="Breathlessness" class="text-danger"></span>
             </div>
-                        <div class="form-group">
+            <div class="form-group">
                 <label asp-for="Sweating" class="control-label"></label>
-                <input asp-for="Sweating" type="checkbox" />
+                <input type="checkbox" name="Sweating" value="1" @(Model?.Sweating == 1 ? "checked" : "") />
                 <span asp-validation-for="Sweating" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Dehydration" class="control-label"></label>
-                <input asp-for="Dehydration" type="checkbox" />
+                <input type="checkbox" name="Dehydration" value="1" @(Model?.Dehydration == 1 ? "checked" : "") />
                 <span asp-validation-for="Dehydration" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Indigestion" class="control-label"></label>
-                <input asp-for="Indigestion" type="checkbox" />
+                <input type="checkbox" name="Indigestion" value="1" @(Model?.Indigestion == 1 ? "checked" : "") />
                 <span asp-validation-for="Indigestion" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Headache" class="control-label"></label>
-                <input asp-for="Headache" type="checkbox" />
+                <input type="checkbox" name="Headache" value="1" @(Model?.Headache == 1 ? "checked" : "") />
                 <span asp-validation-for="Headache" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="YellowishSkin" class="control-label"></label>
-                <input asp-for="YellowishSkin" type="checkbox" />
+                <input type="checkbox" name="YellowishSkin" value="1" @(Model?.YellowishSkin == 1 ? "checked" : "") />
                 <span asp-validation-for="YellowishSkin" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="DarkUrine" class="control-label"></label>
-                <input asp-for="DarkUrine" type="checkbox" />
+                <input type="checkbox" name="DarkUrine" value="1" @(Model?.DarkUrine == 1 ? "checked" : "") />
                 <span asp-validation-for="DarkUrine" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Nausea" class="control-label"></label>
-                <input asp-for="Nausea" type="checkbox" />
+                <input type="checkbox" name="Nausea" value="1" @(Model?.Nausea == 1 ? "checked" : "") />
                 <span asp-validation-for="Nausea" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="LossOfAppetite" class="control-label"></label>
-                <input asp-for="LossOfAppetite" type="checkbox" />
+                <input type="checkbox" name="LossOfAppetite" value="1" @(Model?.LossOfAppetite == 1 ? "checked" : "") />
                 <span asp-validation-for="LossOfAppetite" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PainBehindTheEyes" class="control-label"></label>
-                <input asp-for="PainBehindTheEyes" type="checkbox" />
+                <input type="checkbox" name="PainBehindTheEyes" value="1" @(Model?.PainBehindTheEyes == 1 ? "checked" : "") />
                 <span asp-validation-for="PainBehindTheEyes" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BackPain" class="control-label"></label>
-                <input asp-for="BackPain" type="checkbox" />
+                <input type="checkbox" name="BackPain" value="1" @(Model?.BackPain == 1 ? "checked" : "") />
                 <span asp-validation-for="BackPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Constipation" class="control-label"></label>
-                <input asp-for="Constipation" type="checkbox" />
+                <input type="checkbox" name="Constipation" value="1" @(Model?.Constipation == 1 ? "checked" : "") />
                 <span asp-validation-for="Constipation" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="AbdominalPain" class="control-label"></label>
-                <input asp-for="AbdominalPain" type="checkbox" />
+                <input type="checkbox" name="AbdominalPain" value="1" @(Model?.AbdominalPain == 1 ? "checked" : "") />
                 <span asp-validation-for="AbdominalPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Diarrhea" class="control-label"></label>
-                <input asp-for="Diarrhea" type="checkbox" />
+                <input type="checkbox" name="Diarrhea" value="1" @(Model?.Diarrhea == 1 ? "checked" : "") />
                 <span asp-validation-for="Diarrhea" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="MildFever" class="control-label"></label>
-                <input asp-for="MildFever" type="checkbox" />
+                <input type="checkbox" name="MildFever" value="1" @(Model?.MildFever == 1 ? "checked" : "") />
                 <span asp-validation-for="MildFever" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="YellowUrine" class="control-label"></label>
-                <input asp-for="YellowUrine" type="checkbox" />
+                <input type="checkbox" name="YellowUrine" value="1" @(Model?.YellowUrine == 1 ? "checked" : "") />
                 <span asp-validation-for="YellowUrine" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="YellowingOfEyes" class="control-label"></label>
-                <input asp-for="YellowingOfEyes" type="checkbox" />
+                <input type="checkbox" name="YellowingOfEyes" value="1" @(Model?.YellowingOfEyes == 1 ? "checked" : "") />
                 <span asp-validation-for="YellowingOfEyes" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="AcuteLiverFailure" class="control-label"></label>
-                <input asp-for="AcuteLiverFailure" type="checkbox" />
+                <input type="checkbox" name="AcuteLiverFailure" value="1" @(Model?.AcuteLiverFailure == 1 ? "checked" : "") />
                 <span asp-validation-for="AcuteLiverFailure" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SwellingOfStomach" class="control-label"></label>
-                <input asp-for="SwellingOfStomach" type="checkbox" />
+                <input type="checkbox" name="SwellingOfStomach" value="1" @(Model?.SwellingOfStomach == 1 ? "checked" : "") />
                 <span asp-validation-for="SwellingOfStomach" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SwelledLymphNodes" class="control-label"></label>
-                <input asp-for="SwelledLymphNodes" type="checkbox" />
+                <input type="checkbox" name="SwelledLymphNodes" value="1" @(Model?.SwelledLymphNodes == 1 ? "checked" : "") />
                 <span asp-validation-for="SwelledLymphNodes" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Malaise" class="control-label"></label>
-                <input asp-for="Malaise" type="checkbox" />
+                <input type="checkbox" name="Malaise" value="1" @(Model?.Malaise == 1 ? "checked" : "") />
                 <span asp-validation-for="Malaise" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BlurredAndDistortedVision" class="control-label"></label>
-                <input asp-for="BlurredAndDistortedVision" type="checkbox" />
+                <input type="checkbox" name="BlurredAndDistortedVision" value="1" @(Model?.BlurredAndDistortedVision == 1 ? "checked" : "") />
                 <span asp-validation-for="BlurredAndDistortedVision" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Phlegm" class="control-label"></label>
-                <input asp-for="Phlegm" type="checkbox" />
+                <input type="checkbox" name="Phlegm" value="1" @(Model?.Phlegm == 1 ? "checked" : "") />
                 <span asp-validation-for="Phlegm" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ThroatIrritation" class="control-label"></label>
-                <input asp-for="ThroatIrritation" type="checkbox" />
+                <input type="checkbox" name="ThroatIrritation" value="1" @(Model?.ThroatIrritation == 1 ? "checked" : "") />
                 <span asp-validation-for="ThroatIrritation" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="RednessOfEyes" class="control-label"></label>
-                <input asp-for="RednessOfEyes" type="checkbox" />
+                <input type="checkbox" name="RednessOfEyes" value="1" @(Model?.RednessOfEyes == 1 ? "checked" : "") />
                 <span asp-validation-for="RednessOfEyes" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SinusPressure" class="control-label"></label>
-                <input asp-for="SinusPressure" type="checkbox" />
+                <input type="checkbox" name="SinusPressure" value="1" @(Model?.SinusPressure == 1 ? "checked" : "") />
                 <span asp-validation-for="SinusPressure" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="RunnyNose" class="control-label"></label>
-                <input asp-for="RunnyNose" type="checkbox" />
+                <input type="checkbox" name="RunnyNose" value="1" @(Model?.RunnyNose == 1 ? "checked" : "") />
                 <span asp-validation-for="RunnyNose" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Congestion" class="control-label"></label>
-                <input asp-for="Congestion" type="checkbox" />
+                <input type="checkbox" name="Congestion" value="1" @(Model?.Congestion == 1 ? "checked" : "") />
                 <span asp-validation-for="Congestion" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ChestPain" class="control-label"></label>
-                <input asp-for="ChestPain" type="checkbox" />
+                <input type="checkbox" name="ChestPain" value="1" @(Model?.ChestPain == 1 ? "checked" : "") />
                 <span asp-validation-for="ChestPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="WeaknessInLimbs" class="control-label"></label>
-                <input asp-for="WeaknessInLimbs" type="checkbox" />
+                <input type="checkbox" name="WeaknessInLimbs" value="1" @(Model?.WeaknessInLimbs == 1 ? "checked" : "") />
                 <span asp-validation-for="WeaknessInLimbs" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="FastHeartRate" class="control-label"></label>
-                <input asp-for="FastHeartRate" type="checkbox" />
+                <input type="checkbox" name="FastHeartRate" value="1" @(Model?.FastHeartRate == 1 ? "checked" : "") />
                 <span asp-validation-for="FastHeartRate" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PainDuringBowelMovements" class="control-label"></label>
-                <input asp-for="PainDuringBowelMovements" type="checkbox" />
+                <input type="checkbox" name="PainDuringBowelMovements" value="1" @(Model?.PainDuringBowelMovements == 1 ? "checked" : "") />
                 <span asp-validation-for="PainDuringBowelMovements" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PainInAnalRegion" class="control-label"></label>
-                <input asp-for="PainInAnalRegion" type="checkbox" />
+                <input type="checkbox" name="PainInAnalRegion" value="1" @(Model?.PainInAnalRegion == 1 ? "checked" : "") />
                 <span asp-validation-for="PainInAnalRegion" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BloodyStool" class="control-label"></label>
-                <input asp-for="BloodyStool" type="checkbox" />
+                <input type="checkbox" name="BloodyStool" value="1" @(Model?.BloodyStool == 1 ? "checked" : "") />
                 <span asp-validation-for="BloodyStool" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="IrritationInAnus" class="control-label"></label>
-                <input asp-for="IrritationInAnus" type="checkbox" />
+                <input type="checkbox" name="IrritationInAnus" value="1" @(Model?.IrritationInAnus == 1 ? "checked" : "") />
                 <span asp-validation-for="IrritationInAnus" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="NeckPain" class="control-label"></label>
-                <input asp-for="NeckPain" type="checkbox" />
+                <input type="checkbox" name="NeckPain" value="1" @(Model?.NeckPain == 1 ? "checked" : "") />
                 <span asp-validation-for="NeckPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Dizziness" class="control-label"></label>
-                <input asp-for="Dizziness" type="checkbox" />
+                <input type="checkbox" name="Dizziness" value="1" @(Model?.Dizziness == 1 ? "checked" : "") />
                 <span asp-validation-for="Dizziness" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Cramps" class="control-label"></label>
-                <input asp-for="Cramps" type="checkbox" />
+                <input type="checkbox" name="Cramps" value="1" @(Model?.Cramps == 1 ? "checked" : "") />
                 <span asp-validation-for="Cramps" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Bruising" class="control-label"></label>
-                <input asp-for="Bruising" type="checkbox" />
+                <input type="checkbox" name="Bruising" value="1" @(Model?.Bruising == 1 ? "checked" : "") />
                 <span asp-validation-for="Bruising" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Obesity" class="control-label"></label>
-                <input asp-for="Obesity" type="checkbox" />
+                <input type="checkbox" name="Obesity" value="1" @(Model?.Obesity == 1 ? "checked" : "") />
                 <span asp-validation-for="Obesity" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SwollenLegs" class="control-label"></label>
-                <input asp-for="SwollenLegs" type="checkbox" />
+                <input type="checkbox" name="SwollenLegs" value="1" @(Model?.SwollenLegs == 1 ? "checked" : "") />
                 <span asp-validation-for="SwollenLegs" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SwollenBloodVessels" class="control-label"></label>
-                <input asp-for="SwollenBloodVessels" type="checkbox" />
+                <input type="checkbox" name="SwollenBloodVessels" value="1" @(Model?.SwollenBloodVessels == 1 ? "checked" : "") />
                 <span asp-validation-for="SwollenBloodVessels" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PuffyFaceAndEyes" class="control-label"></label>
-                <input asp-for="PuffyFaceAndEyes" type="checkbox" />
+                <input type="checkbox" name="PuffyFaceAndEyes" value="1" @(Model?.PuffyFaceAndEyes == 1 ? "checked" : "") />
                 <span asp-validation-for="PuffyFaceAndEyes" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="EnlargedThyroid" class="control-label"></label>
-                <input asp-for="EnlargedThyroid" type="checkbox" />
+                <input type="checkbox" name="EnlargedThyroid" value="1" @(Model?.EnlargedThyroid == 1 ? "checked" : "") />
                 <span asp-validation-for="EnlargedThyroid" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BrittleNails" class="control-label"></label>
-                <input asp-for="BrittleNails" type="checkbox" />
+                <input type="checkbox" name="BrittleNails" value="1" @(Model?.BrittleNails == 1 ? "checked" : "") />
                 <span asp-validation-for="BrittleNails" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SwollenExtremeties" class="control-label"></label>
-                <input asp-for="SwollenExtremeties" type="checkbox" />
+                <input type="checkbox" name="SwollenExtremeties" value="1" @(Model?.SwollenExtremeties == 1 ? "checked" : "") />
                 <span asp-validation-for="SwollenExtremeties" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ExcessiveHunger" class="control-label"></label>
-                <input asp-for="ExcessiveHunger" type="checkbox" />
+                <input type="checkbox" name="ExcessiveHunger" value="1" @(Model?.ExcessiveHunger == 1 ? "checked" : "") />
                 <span asp-validation-for="ExcessiveHunger" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ExtraMaritalContacts" class="control-label"></label>
-                <input asp-for="ExtraMaritalContacts" type="checkbox" />
+                <input type="checkbox" name="ExtraMaritalContacts" value="1" @(Model?.ExtraMaritalContacts == 1 ? "checked" : "") />
                 <span asp-validation-for="ExtraMaritalContacts" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="DryingAndTinglingLips" class="control-label"></label>
-                <input asp-for="DryingAndTinglingLips" type="checkbox" />
+                <input type="checkbox" name="DryingAndTinglingLips" value="1" @(Model?.DryingAndTinglingLips == 1 ? "checked" : "") />
                 <span asp-validation-for="DryingAndTinglingLips" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SlurredSpeech" class="control-label"></label>
-                <input asp-for="SlurredSpeech" type="checkbox" />
+                <input type="checkbox" name="SlurredSpeech" value="1" @(Model?.SlurredSpeech == 1 ? "checked" : "") />
                 <span asp-validation-for="SlurredSpeech" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="KneePain" class="control-label"></label>
-                <input asp-for="KneePain" type="checkbox" />
+                <input type="checkbox" name="KneePain" value="1" @(Model?.KneePain == 1 ? "checked" : "") />
                 <span asp-validation-for="KneePain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="HipJointPain" class="control-label"></label>
-                <input asp-for="HipJointPain" type="checkbox" />
+                <input type="checkbox" name="HipJointPain" value="1" @(Model?.HipJointPain == 1 ? "checked" : "") />
                 <span asp-validation-for="HipJointPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="MuscleWeakness" class="control-label"></label>
-                <input asp-for="MuscleWeakness" type="checkbox" />
+                <input type="checkbox" name="MuscleWeakness" value="1" @(Model?.MuscleWeakness == 1 ? "checked" : "") />
                 <span asp-validation-for="MuscleWeakness" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="StiffNeck" class="control-label"></label>
-                <input asp-for="StiffNeck" type="checkbox" />
+                <input type="checkbox" name="StiffNeck" value="1" @(Model?.StiffNeck == 1 ? "checked" : "") />
                 <span asp-validation-for="StiffNeck" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SwellingJoints" class="control-label"></label>
-                <input asp-for="SwellingJoints" type="checkbox" />
+                <input type="checkbox" name="SwellingJoints" value="1" @(Model?.SwellingJoints == 1 ? "checked" : "") />
                 <span asp-validation-for="SwellingJoints" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="MovementStiffness" class="control-label"></label>
-                <input asp-for="MovementStiffness" type="checkbox" />
+                <input type="checkbox" name="MovementStiffness" value="1" @(Model?.MovementStiffness == 1 ? "checked" : "") />
                 <span asp-validation-for="MovementStiffness" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SpinningMovements" class="control-label"></label>
-                <input asp-for="SpinningMovements" type="checkbox" />
+                <input type="checkbox" name="SpinningMovements" value="1" @(Model?.SpinningMovements == 1 ? "checked" : "") />
                 <span asp-validation-for="SpinningMovements" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="LossOfBalance" class="control-label"></label>
-                <input asp-for="LossOfBalance" type="checkbox" />
+                <input type="checkbox" name="LossOfBalance" value="1" @(Model?.LossOfBalance == 1 ? "checked" : "") />
                 <span asp-validation-for="LossOfBalance" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Unsteadiness" class="control-label"></label>
-                <input asp-for="Unsteadiness" type="checkbox" />
+                <input type="checkbox" name="Unsteadiness" value="1" @(Model?.Unsteadiness == 1 ? "checked" : "") />
                 <span asp-validation-for="Unsteadiness" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="WeaknessOfOneBodySide" class="control-label"></label>
-                <input asp-for="WeaknessOfOneBodySide" type="checkbox" />
+                <input type="checkbox" name="WeaknessOfOneBodySide" value="1" @(Model?.WeaknessOfOneBodySide == 1 ? "checked" : "") />
                 <span asp-validation-for="WeaknessOfOneBodySide" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="LossOfSmell" class="control-label"></label>
-                <input asp-for="LossOfSmell" type="checkbox" />
+                <input type="checkbox" name="LossOfSmell" value="1" @(Model?.LossOfSmell == 1 ? "checked" : "") />
                 <span asp-validation-for="LossOfSmell" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BladderDiscomfort" class="control-label"></label>
-                <input asp-for="BladderDiscomfort" type="checkbox" />
+                <input type="checkbox" name="BladderDiscomfort" value="1" @(Model?.BladderDiscomfort == 1 ? "checked" : "") />
                 <span asp-validation-for="BladderDiscomfort" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="FoulSmellOfUrine" class="control-label"></label>
-                <input asp-for="FoulSmellOfUrine" type="checkbox" />
+                <input type="checkbox" name="FoulSmellOfUrine" value="1" @(Model?.FoulSmellOfUrine == 1 ? "checked" : "") />
                 <span asp-validation-for="FoulSmellOfUrine" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ContinuousFeelOfUrine" class="control-label"></label>
-                <input asp-for="ContinuousFeelOfUrine" type="checkbox" />
+                <input type="checkbox" name="ContinuousFeelOfUrine" value="1" @(Model?.ContinuousFeelOfUrine == 1 ? "checked" : "") />
                 <span asp-validation-for="ContinuousFeelOfUrine" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PassageOfGases" class="control-label"></label>
-                <input asp-for="PassageOfGases" type="checkbox" />
+                <input type="checkbox" name="PassageOfGases" value="1" @(Model?.PassageOfGases == 1 ? "checked" : "") />
                 <span asp-validation-for="PassageOfGases" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="InternalItching" class="control-label"></label>
-                <input asp-for="InternalItching" type="checkbox" />
+                <input type="checkbox" name="InternalItching" value="1" @(Model?.InternalItching == 1 ? "checked" : "") />
                 <span asp-validation-for="InternalItching" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ToxicLook_Typhos" class="control-label"></label>
-                <input asp-for="ToxicLook_Typhos" type="checkbox" />
+                <input type="checkbox" name="ToxicLook_Typhos" value="1" @(Model?.ToxicLook_Typhos == 1 ? "checked" : "") />
                 <span asp-validation-for="ToxicLook_Typhos" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Depression" class="control-label"></label>
-                <input asp-for="Depression" type="checkbox" />
+                <input type="checkbox" name="Depression" value="1" @(Model?.Depression == 1 ? "checked" : "") />
                 <span asp-validation-for="Depression" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Irritability" class="control-label"></label>
-                <input asp-for="Irritability" type="checkbox" />
+                <input type="checkbox" name="Irritability" value="1" @(Model?.Irritability == 1 ? "checked" : "") />
                 <span asp-validation-for="Irritability" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="MusclePain" class="control-label"></label>
-                <input asp-for="MusclePain" type="checkbox" />
+                <input type="checkbox" name="MusclePain" value="1" @(Model?.MusclePain == 1 ? "checked" : "") />
                 <span asp-validation-for="MusclePain" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="AlteredSensorium" class="control-label"></label>
+                <input type="checkbox" name="AlteredSensorium" value="1" @(Model?.AlteredSensorium == 1 ? "checked" : "") />
+                <span asp-validation-for="AlteredSensorium" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="RedSpotsOverBody" class="control-label"></label>
-                <input asp-for="RedSpotsOverBody" type="checkbox" />
+                <input type="checkbox" name="RedSpotsOverBody" value="1" @(Model?.RedSpotsOverBody == 1 ? "checked" : "") />
                 <span asp-validation-for="RedSpotsOverBody" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BellyPain" class="control-label"></label>
-                <input asp-for="BellyPain" type="checkbox" />
+                <input type="checkbox" name="BellyPain" value="1" @(Model?.BellyPain == 1 ? "checked" : "") />
                 <span asp-validation-for="BellyPain" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="AbnormalMenstruation" class="control-label"></label>
-                <input asp-for="AbnormalMenstruation" type="checkbox" />
+                <input type="checkbox" name="AbnormalMenstruation" value="1" @(Model?.AbnormalMenstruation == 1 ? "checked" : "") />
                 <span asp-validation-for="AbnormalMenstruation" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="DischromicPatches" class="control-label"></label>
-                <input asp-for="DischromicPatches" type="checkbox" />
+                <input type="checkbox" name="DischromicPatches" value="1" @(Model?.DischromicPatches == 1 ? "checked" : "") />
                 <span asp-validation-for="DischromicPatches" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="WateringFromEyes" class="control-label"></label>
-                <input asp-for="WateringFromEyes" type="checkbox" />
+                <input type="checkbox" name="WateringFromEyes" value="1" @(Model?.WateringFromEyes == 1 ? "checked" : "") />
                 <span asp-validation-for="WateringFromEyes" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="IncreasedAppetite" class="control-label"></label>
-                <input asp-for="IncreasedAppetite" type="checkbox" />
+                <input type="checkbox" name="IncreasedAppetite" value="1" @(Model?.IncreasedAppetite == 1 ? "checked" : "") />
                 <span asp-validation-for="IncreasedAppetite" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Polyuria" class="control-label"></label>
-                <input asp-for="Polyuria" type="checkbox" />
+                <input type="checkbox" name="Polyuria" value="1" @(Model?.Polyuria == 1 ? "checked" : "") />
                 <span asp-validation-for="Polyuria" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="FamilyHistory" class="control-label"></label>
-                <input asp-for="FamilyHistory" type="checkbox" />
+                <input type="checkbox" name="FamilyHistory" value="1" @(Model?.FamilyHistory == 1 ? "checked" : "") />
                 <span asp-validation-for="FamilyHistory" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="MucoidSputum" class="control-label"></label>
-                <input asp-for="MucoidSputum" type="checkbox" />
+                <input type="checkbox" name="MucoidSputum" value="1" @(Model?.MucoidSputum == 1 ? "checked" : "") />
                 <span asp-validation-for="MucoidSputum" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="RustySputum" class="control-label"></label>
-                <input asp-for="RustySputum" type="checkbox" />
+                <input type="checkbox" name="RustySputum" value="1" @(Model?.RustySputum == 1 ? "checked" : "") />
                 <span asp-validation-for="RustySputum" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="LackOfConcentration" class="control-label"></label>
-                <input asp-for="LackOfConcentration" type="checkbox" />
+                <input type="checkbox" name="LackOfConcentration" value="1" @(Model?.LackOfConcentration == 1 ? "checked" : "") />
                 <span asp-validation-for="LackOfConcentration" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="VisualDisturbances" class="control-label"></label>
-                <input asp-for="VisualDisturbances" type="checkbox" />
+                <input type="checkbox" name="VisualDisturbances" value="1" @(Model?.VisualDisturbances == 1 ? "checked" : "") />
                 <span asp-validation-for="VisualDisturbances" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ReceivingBloodTransfusion" class="control-label"></label>
-                <input asp-for="ReceivingBloodTransfusion" type="checkbox" />
+                <input type="checkbox" name="ReceivingBloodTransfusion" value="1" @(Model?.ReceivingBloodTransfusion == 1 ? "checked" : "") />
                 <span asp-validation-for="ReceivingBloodTransfusion" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ReceivingUnsterileInjections" class="control-label"></label>
-                <input asp-for="ReceivingUnsterileInjections" type="checkbox" />
+                <input type="checkbox" name="ReceivingUnsterileInjections" value="1" @(Model?.ReceivingUnsterileInjections == 1 ? "checked" : "") />
                 <span asp-validation-for="ReceivingUnsterileInjections" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Coma" class="control-label"></label>
-                <input asp-for="Coma" type="checkbox" />
+                <input type="checkbox" name="Coma" value="1" @(Model?.Coma == 1 ? "checked" : "") />
                 <span asp-validation-for="Coma" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="StomachBleeding" class="control-label"></label>
-                <input asp-for="StomachBleeding" type="checkbox" />
+                <input type="checkbox" name="StomachBleeding" value="1" @(Model?.StomachBleeding == 1 ? "checked" : "") />
                 <span asp-validation-for="StomachBleeding" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="DistentionOfAbdomen" class="control-label"></label>
-                <input asp-for="DistentionOfAbdomen" type="checkbox" />
+                <input type="checkbox" name="DistentionOfAbdomen" value="1" @(Model?.DistentionOfAbdomen == 1 ? "checked" : "") />
                 <span asp-validation-for="DistentionOfAbdomen" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="HistoryOfAlcoholConsumption" class="control-label"></label>
-                <input asp-for="HistoryOfAlcoholConsumption" type="checkbox" />
-                <span asp-validation-for="HistoryOfAlcoholConsumption" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="HistoryOfAlcoholConsumption" class="control-label"></label>
-                <input asp-for="HistoryOfAlcoholConsumption" type="checkbox" />
+                <input type="checkbox" name="HistoryOfAlcoholConsumption" value="1" @(Model?.HistoryOfAlcoholConsumption == 1 ? "checked" : "") />
                 <span asp-validation-for="HistoryOfAlcoholConsumption" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="fluid_overload" class="control-label"></label>
-                <input asp-for="fluid_overload" type="checkbox" />
+                <input type="checkbox" name="fluid_overload" value="1" @(Model?.fluid_overload == 1 ? "checked" : "") />
                 <span asp-validation-for="fluid_overload" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BloodInSputum" class="control-label"></label>
-                <input asp-for="BloodInSputum" type="checkbox" />
+                <input type="checkbox" name="BloodInSputum" value="1" @(Model?.BloodInSputum == 1 ? "checked" : "") />
                 <span asp-validation-for="BloodInSputum" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ProminentVeinsOnCalf" class="control-label"></label>
-                <input asp-for="ProminentVeinsOnCalf" type="checkbox" />
+                <input type="checkbox" name="ProminentVeinsOnCalf" value="1" @(Model?.ProminentVeinsOnCalf == 1 ? "checked" : "") />
                 <span asp-validation-for="ProminentVeinsOnCalf" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Palpitations" class="control-label"></label>
-                <input asp-for="Palpitations" type="checkbox" />
+                <input type="checkbox" name="Palpitations" value="1" @(Model?.Palpitations == 1 ? "checked" : "") />
                 <span asp-validation-for="Palpitations" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PainfulWalking" class="control-label"></label>
-                <input asp-for="PainfulWalking" type="checkbox" />
+                <input type="checkbox" name="PainfulWalking" value="1" @(Model?.PainfulWalking == 1 ? "checked" : "") />
                 <span asp-validation-for="PainfulWalking" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="PusFilledPimples" class="control-label"></label>
-                <input asp-for="PusFilledPimples" type="checkbox" />
+                <input type="checkbox" name="PusFilledPimples" value="1" @(Model?.PusFilledPimples == 1 ? "checked" : "") />
                 <span asp-validation-for="PusFilledPimples" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Blackheads" class="control-label"></label>
-                <input asp-for="Blackheads" type="checkbox" />
+                <input type="checkbox" name="Blackheads" value="1" @(Model?.Blackheads == 1 ? "checked" : "") />
                 <span asp-validation-for="Blackheads" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Scurring" class="control-label"></label>
-                <input asp-for="Scurring" type="checkbox" />
+                <input type="checkbox" name="Scurring" value="1" @(Model?.Scurring == 1 ? "checked" : "") />
                 <span asp-validation-for="Scurring" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SkinPeeling" class="control-label"></label>
-                <input asp-for="SkinPeeling" type="checkbox" />
+                <input type="checkbox" name="SkinPeeling" value="1" @(Model?.SkinPeeling == 1 ? "checked" : "") />
                 <span asp-validation-for="SkinPeeling" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SilverLikeDusting" class="control-label"></label>
-                <input asp-for="SilverLikeDusting" type="checkbox" />
+                <input type="checkbox" name="SilverLikeDusting" value="1" @(Model?.SilverLikeDusting == 1 ? "checked" : "") />
                 <span asp-validation-for="SilverLikeDusting" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="SmallDentsInNails" class="control-label"></label>
-                <input asp-for="SmallDentsInNails" type="checkbox" />
+                <input type="checkbox" name="SmallDentsInNails" value="1" @(Model?.SmallDentsInNails == 1 ? "checked" : "") />
                 <span asp-validation-for="SmallDentsInNails" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="InflammatoryNails" class="control-label"></label>
-                <input asp-for="InflammatoryNails" type="checkbox" />
+                <input type="checkbox" name="InflammatoryNails" value="1" @(Model?.InflammatoryNails == 1 ? "checked" : "") />
                 <span asp-validation-for="InflammatoryNails" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Blister" class="control-label"></label>
-                <input asp-for="Blister" type="checkbox" />
+                <input type="checkbox" name="Blister" value="1" @(Model?.Blister == 1 ? "checked" : "") />
                 <span asp-validation-for="Blister" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="RedSoreAroundNose" class="control-label"></label>
-                <input asp-for="RedSoreAroundNose" type="checkbox" />
+                <input type="checkbox" name="RedSoreAroundNose" value="1" @(Model?.RedSoreAroundNose == 1 ? "checked" : "") />
                 <span asp-validation-for="RedSoreAroundNose" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="YellowCrustOoze" class="control-label"></label>
-                <input asp-for="YellowCrustOoze" type="checkbox" />
+                <input type="checkbox" name="YellowCrustOoze" value="1" @(Model?.YellowCrustOoze == 1 ? "checked" : "") />
                 <span asp-validation-for="YellowCrustOoze" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Prognosis" class="control-label"></label>
-                <input asp-for="Prognosis" class="form-control" />
-                <span asp-validation-for="Prognosis" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+            <div>
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
@@ -679,6 +684,159 @@
 </div>
 
 @section Scripts {
+    <script type="text/javascript">
+        async function getPrediction() {
+            const symptoms = {
+        itching: document.getElementById("Itching").checked ? 1 : 0,
+        skinRash: document.getElementById("SkinRash").checked ? 1 : 0,
+        nodalSkinEruptions: document.getElementById("NodalSkinEruptions").checked ? 1 : 0,
+        continuousSneezing: document.getElementById("ContinuousSneezing").checked ? 1 : 0,
+        shivering: document.getElementById("Shivering").checked ? 1 : 0,
+        chills: document.getElementById("Chills").checked ? 1 : 0,
+        jointPain: document.getElementById("JointPain").checked ? 1 : 0,
+        stomachPain: document.getElementById("StomachPain").checked ? 1 : 0,
+        acidity: document.getElementById("Acidity").checked ? 1 : 0,
+        ulcersOnTongue: document.getElementById("UlcersOnTongue").checked ? 1 : 0,
+        muscleWasting: document.getElementById("MuscleWasting").checked ? 1 : 0,
+        vomiting: document.getElementById("Vomiting").checked ? 1 : 0,
+        burningMicturition: document.getElementById("BurningMicturition").checked ? 1 : 0,
+        spottingUrination: document.getElementById("SpottingUrination").checked ? 1 : 0,
+        fatigue: document.getElementById("Fatigue").checked ? 1 : 0,
+        weightGain: document.getElementById("WeightGain").checked ? 1 : 0,
+        anxiety: document.getElementById("Anxiety").checked ? 1 : 0,
+        coldHandsAndFeet: document.getElementById("ColdHandsAndFeet").checked ? 1 : 0,
+        moodSwings: document.getElementById("MoodSwings").checked ? 1 : 0,
+        weightLoss: document.getElementById("WeightLoss").checked ? 1 : 0,
+        restlessness: document.getElementById("Restlessness").checked ? 1 : 0,
+        lethargy: document.getElementById("Lethargy").checked ? 1 : 0,
+        patchesInThroat: document.getElementById("PatchesInThroat").checked ? 1 : 0,
+        irregularSugarLevel: document.getElementById("IrregularSugarLevel").checked ? 1 : 0,
+        cough: document.getElementById("Cough").checked ? 1 : 0,
+        highFever: document.getElementById("HighFever").checked ? 1 : 0,
+        sunkenEyes: document.getElementById("SunkenEyes").checked ? 1 : 0,
+        breathlessness: document.getElementById("Breathlessness").checked ? 1 : 0,
+        sweating: document.getElementById("Sweating").checked ? 1 : 0,
+        dehydration: document.getElementById("Dehydration").checked ? 1 : 0,
+        indigestion: document.getElementById("Indigestion").checked ? 1 : 0,
+        headache: document.getElementById("Headache").checked ? 1 : 0,
+        yellowishSkin: document.getElementById("YellowishSkin").checked ? 1 : 0,
+        darkUrine: document.getElementById("DarkUrine").checked ? 1 : 0,
+        nausea: document.getElementById("Nausea").checked ? 1 : 0,
+        lossOfAppetite: document.getElementById("LossOfAppetite").checked ? 1 : 0,
+        painBehindTheEyes: document.getElementById("PainBehindTheEyes").checked ? 1 : 0,
+        backPain: document.getElementById("BackPain").checked ? 1 : 0,
+        constipation: document.getElementById("Constipation").checked ? 1 : 0,
+        abdominalPain: document.getElementById("AbdominalPain").checked ? 1 : 0,
+        diarrhea: document.getElementById("Diarrhea").checked ? 1 : 0,
+        mildFever: document.getElementById("MildFever").checked ? 1 : 0,
+        yellowUrine: document.getElementById("YellowUrine").checked ? 1 : 0,
+        yellowingOfEyes: document.getElementById("YellowingOfEyes").checked ? 1 : 0,
+        acuteLiverFailure: document.getElementById("AcuteLiverFailure").checked ? 1 : 0,
+        swellingOfStomach: document.getElementById("SwellingOfStomach").checked ? 1 : 0,
+        swelledLymphNodes: document.getElementById("SwelledLymphNodes").checked ? 1 : 0,
+        malaise: document.getElementById("Malaise").checked ? 1 : 0,
+        blurredAndDistortedVision: document.getElementById("BlurredAndDistortedVision").checked ? 1 : 0,
+        phlegm: document.getElementById("Phlegm").checked ? 1 : 0,
+        throatIrritation: document.getElementById("ThroatIrritation").checked ? 1 : 0,
+        rednessOfEyes: document.getElementById("RednessOfEyes").checked ? 1 : 0,
+        sinusPressure: document.getElementById("SinusPressure").checked ? 1 : 0,
+        runnyNose: document.getElementById("RunnyNose").checked ? 1 : 0,
+        congestion: document.getElementById("Congestion").checked ? 1 : 0,
+        chestPain: document.getElementById("ChestPain").checked ? 1 : 0,
+        weaknessInLimbs: document.getElementById("WeaknessInLimbs").checked ? 1 : 0,
+        fastHeartRate: document.getElementById("FastHeartRate").checked ? 1 : 0,
+        painDuringBowelMovements: document.getElementById("PainDuringBowelMovements").checked ? 1 : 0,
+        painInAnalRegion: document.getElementById("PainInAnalRegion").checked ? 1 : 0,
+        bloodyStool: document.getElementById("BloodyStool").checked ? 1 : 0,
+        irritationInAnus: document.getElementById("IrritationInAnus").checked ? 1 : 0,
+        neckPain: document.getElementById("NeckPain").checked ? 1 : 0,
+        dizziness: document.getElementById("Dizziness").checked ? 1 : 0,
+        cramps: document.getElementById("Cramps").checked ? 1 : 0,
+        bruising: document.getElementById("Bruising").checked ? 1 : 0,
+        obesity: document.getElementById("Obesity").checked ? 1 : 0,
+        swollenLegs: document.getElementById("SwollenLegs").checked ? 1 : 0,
+        swollenBloodVessels: document.getElementById("SwollenBloodVessels").checked ? 1 : 0,
+        puffyFaceAndEyes: document.getElementById("PuffyFaceAndEyes").checked ? 1 : 0,
+        enlargedThyroid: document.getElementById("EnlargedThyroid").checked ? 1 : 0,
+        brittleNails: document.getElementById("BrittleNails").checked ? 1 : 0,
+        swollenExtremeties: document.getElementById("SwollenExtremeties").checked ? 1 : 0,
+        excessiveHunger: document.getElementById("ExcessiveHunger").checked ? 1 : 0,
+        extraMaritalContacts: document.getElementById("ExtraMaritalContacts").checked ? 1 : 0,
+        dryingAndTinglingLips: document.getElementById("DryingAndTinglingLips").checked ? 1 : 0,
+        slurredSpeech: document.getElementById("SlurredSpeech").checked ? 1 : 0,
+        kneePain: document.getElementById("KneePain").checked ? 1 : 0,
+        hipJointPain: document.getElementById("HipJointPain").checked ? 1 : 0,
+        muscleWeakness: document.getElementById("MuscleWeakness").checked ? 1 : 0,
+        stiffNeck: document.getElementById("StiffNeck").checked ? 1 : 0,
+        swellingJoints: document.getElementById("SwellingJoints").checked ? 1 : 0,
+        movementStiffness: document.getElementById("MovementStiffness").checked ? 1 : 0,
+        spinningMovements: document.getElementById("SpinningMovements").checked ? 1 : 0,
+        lossOfBalance: document.getElementById("LossOfBalance").checked ? 1 : 0,
+        unsteadiness: document.getElementById("Unsteadiness").checked ? 1 : 0,
+        weaknessOfOneBodySide: document.getElementById("WeaknessOfOneBodySide").checked ? 1 : 0,
+        lossOfSmell: document.getElementById("LossOfSmell").checked ? 1 : 0,
+        bladderDiscomfort: document.getElementById("BladderDiscomfort").checked ? 1 : 0,
+        foulSmellOfUrine: document.getElementById("FoulSmellOfUrine").checked ? 1 : 0,
+        continuousFeelOfUrine: document.getElementById("ContinuousFeelOfUrine").checked ? 1 : 0,
+        passageOfGases: document.getElementById("PassageOfGases").checked ? 1 : 0,
+        internalItching: document.getElementById("InternalItching").checked ? 1 : 0,
+        toxicLook_Typhos: document.getElementById("ToxicLook_Typhos").checked ? 1 : 0,
+        depression: document.getElementById("Depression").checked ? 1 : 0,
+        irritability: document.getElementById("Irritability").checked ? 1 : 0,
+        musclePain: document.getElementById("MusclePain").checked ? 1 : 0,
+        alteredSensorium: document.getElementById("AlteredSensorium").checked ? 1 : 0,
+        redSpotsOverBody: document.getElementById("RedSpotsOverBody").checked ? 1 : 0,
+        bellyPain: document.getElementById("BellyPain").checked ? 1 : 0,
+        abnormalMenstruation: document.getElementById("AbnormalMenstruation").checked ? 1 : 0,
+        dischromicPatches: document.getElementById("DischromicPatches").checked ? 1 : 0,
+        wateringFromEyes: document.getElementById("WateringFromEyes").checked ? 1 : 0,
+        increasedAppetite: document.getElementById("IncreasedAppetite").checked ? 1 : 0,
+        polyuria: document.getElementById("Polyuria").checked ? 1 : 0,
+        familyHistory: document.getElementById("FamilyHistory").checked ? 1 : 0,
+        mucoidSputum: document.getElementById("MucoidSputum").checked ? 1 : 0,
+        rustySputum: document.getElementById("RustySputum").checked ? 1 : 0,
+        lackOfConcentration: document.getElementById("LackOfConcentration").checked ? 1 : 0,
+        visualDisturbances: document.getElementById("VisualDisturbances").checked ? 1 : 0,
+        receivingBloodTransfusion: document.getElementById("ReceivingBloodTransfusion").checked ? 1 : 0,
+        receivingUnsterileInjections: document.getElementById("ReceivingUnsterileInjections").checked ? 1 : 0,
+        coma: document.getElementById("Coma").checked ? 1 : 0,
+        stomachBleeding: document.getElementById("StomachBleeding").checked ? 1 : 0,
+        distentionOfAbdomen: document.getElementById("DistentionOfAbdomen").checked ? 1 : 0,
+        historyOfAlcoholConsumption: document.getElementById("HistoryOfAlcoholConsumption").checked ? 1 : 0,
+        fluid_overload: document.getElementById("fluid_overload").checked ? 1 : 0,
+        bloodInSputum: document.getElementById("BloodInSputum").checked ? 1 : 0,
+        prominentVeinsOnCalf: document.getElementById("ProminentVeinsOnCalf").checked ? 1 : 0,
+        palpitations: document.getElementById("Palpitations").checked ? 1 : 0,
+        painfulWalking: document.getElementById("PainfulWalking").checked ? 1 : 0,
+        pusFilledPimples: document.getElementById("PusFilledPimples").checked ? 1 : 0,
+        blackheads: document.getElementById("Blackheads").checked ? 1 : 0,
+        scurring: document.getElementById("Scurring").checked ? 1 : 0,
+        skinPeeling: document.getElementById("SkinPeeling").checked ? 1 : 0,
+        silverLikeDusting: document.getElementById("SilverLikeDusting").checked ? 1 : 0,
+        smallDentsInNails: document.getElementById("SmallDentsInNails").checked ? 1 : 0,
+        inflammatoryNails: document.getElementById("InflammatoryNails").checked ? 1 : 0,
+        blister: document.getElementById("Blister").checked ? 1 : 0,
+        redSoreAroundNose: document.getElementById("RedSoreAroundNose").checked ? 1 : 0,
+        yellowCrustOoze: document.getElementById("YellowCrustOoze").checked ? 1 : 0,
+                    };
+            try {
+                const response = await fetch('@Url.Action("Predict", "Patients")', {
+                    method: "POST",
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(symptoms)
+                });
+                const data = await response.json();
+                document.getElementById("Prognosis").value = data.prediction;
+            } catch (error) {
+                console.error("Error predicting prognosis:", error);
+            }
+        }
+
+        // Attach getPrediction to Prognosis field focus
+        document.getElementById("predictButton").addEventListener("click", getPrediction);
+    </script>
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }

@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\services\\predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:services\\predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\medmodel.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:medmodel.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\medinsight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|solutionrelative:medinsight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E1ED98-F7FD-4745-974D-55C4FF9A5442}|MedInsight.csproj|c:\\users\\kelby\\onedrive\\desktop\\medinsight\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,19 +83,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T01:33:39.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T23:34:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:25:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PredictionService.cs",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Services\\PredictionService.cs",
+              "RelativeDocumentMoniker": "Services\\PredictionService.cs",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Services\\PredictionService.cs",
+              "RelativeToolTip": "Services\\PredictionService.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAAABwBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:28:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedInsight",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\MedInsight.csproj",
+              "RelativeDocumentMoniker": "MedInsight.csproj",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\MedInsight.csproj",
+              "RelativeToolTip": "MedInsight.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T21:28:18.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T21:18:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwJQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-27T21:17:08.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedModel.py",
+              "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\MedModel.py",
+              "RelativeDocumentMoniker": "MedModel.py",
+              "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\MedModel.py",
+              "RelativeToolTip": "MedModel.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-27T21:10:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PatientsController.cs",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Controllers\\PatientsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
               "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Controllers\\PatientsController.cs",
               "RelativeToolTip": "Controllers\\PatientsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAASwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T20:55:11.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Patients\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Patients\\Edit.cshtml",
@@ -75,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Patients\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Patients\\Details.cshtml",
@@ -87,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Patients\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Patients\\Delete.cshtml",
@@ -99,15 +235,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Patients\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
               "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Patients\\Index.cshtml",
               "RelativeToolTip": "Views\\Patients\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA4AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T23:42:45.515Z"
+              "WhenOpened": "2024-12-23T23:42:45.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -117,14 +254,14 @@
               "RelativeDocumentMoniker": "Views\\Patients\\Create.cshtml",
               "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Patients\\Create.cshtml",
               "RelativeToolTip": "Views\\Patients\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHACAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKICAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-23T23:13:49.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -136,20 +273,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Models\\Patient.cs",
               "ToolTip": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Models\\Patient.cs",
               "RelativeToolTip": "Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAA2wA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T22:08:19.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "20241222220510_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\Migrations\\20241222220510_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241222220510_InitialCreate.cs",
