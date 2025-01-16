@@ -36,24 +36,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Patients/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Illness/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxsbmVzc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Patients/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Illness/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxsbmVzc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Patients/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Illness/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxsbmVzc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Patients/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Illness/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxsbmVzc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Patients/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+[C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Illness/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxsbmVzc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kelby/OneDrive/Desktop/MedInsight/Views/Shared/Error.cshtml]
