@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedInsight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13babba9c01306ef46cbcfd5fd73993e3ea3b638")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cbf39cb00fc7ae7ef5af49746bbbaef2166ce5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedInsight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedInsight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
