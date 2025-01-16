@@ -248,7 +248,6 @@ C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.sourcelin
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\scopedcss\bundle\MedInsight.styles.css
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\scopedcss\projectbundle\MedInsight.bundle.scp.css
-C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\jqlrad42qh-b9sayid5wm.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\2gzdl0344h-61n19gt1b8.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\00tsq5r2dt-xtxxf3hu2r.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\ue0bg4rb47-t1cqhe9u97.gz
@@ -275,7 +274,7 @@ C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\wpc0lrstr
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\p7aepx8bmr-j5mq2jizvt.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\52ce0kktis-keugtjm085.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\nclp1sayja-nvvlpmu67g.gz
-C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\3gnhhsu5h9-zub09dkrxp.gz
+C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\3gnhhsu5h9-4t01vugqhv.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\v6o2tr4zno-pj5nd1wqec.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\al53jldao4-43atpzeawx.gz
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\p8n2yh57d9-v0zj4ognzu.gz
@@ -328,3 +327,4 @@ C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\refint\MedInsight.dl
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.pdb
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\MedInsight.genruntimeconfig.cache
 C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\ref\MedInsight.dll
+C:\Users\kelby\OneDrive\Desktop\MedInsight\obj\Debug\net9.0\compressed\jqlrad42qh-kihjhg9lii.gz

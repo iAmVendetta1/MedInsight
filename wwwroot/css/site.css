@@ -17,8 +17,40 @@ html {
   min-height: 100%;
 }
 
+header {
+    color: lightgrey !important;
+    background-color: #232323 !important;
+}
+
+.navbar {
+    background-color: #232323 !important;
+}
+
+.navbar .navbar-brand, .navbar .nav-link {
+    color: lightgrey !important;
+}
+
+
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #232323;
+    color: lightgrey;
+}
+
+h1, h2 {
+    color: lightgrey;
+}
+
+.table th {
+    background-color: #232323;
+    color: lightgrey; /* Specific color for table content */
+    border-color: lightgrey;
+}
+
+.table td {
+    background-color: #232323;
+    color: tan; /* Specific color for table content */
+    border-color: lightgrey;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -28,4 +60,13 @@ body {
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
+}
+
+footer {
+    color: #808080; /* This sets the text color to dark grey */
+    /* Other styles... */
+}
+
+footer.text-muted {
+    color: lightgrey !important;
 }

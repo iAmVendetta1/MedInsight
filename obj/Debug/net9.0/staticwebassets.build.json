@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JyZEuLB/9CBkAHcAd492Lc6k0MTDEkK3XEAmSZvotgQ=",
+  "Hash": "4/fAO/wRU8X8JI/IZAMxGyS5/xGReCYE3hhCJZ6N058=",
   "Source": "MedInsight",
   "BasePath": "_content/MedInsight",
   "Mode": "Default",
@@ -206,12 +206,12 @@
       "OriginalItemSpec": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-zub09dkrxp.gz",
+      "Identity": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-4t01vugqhv.gz",
       "SourceId": "MedInsight",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MedInsight",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=zub09dkrxp}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=4t01vugqhv}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -220,8 +220,8 @@
       "RelatedAsset": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ndo96zskmb",
-      "Integrity": "q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=",
+      "Fingerprint": "7j3wxhg6au",
+      "Integrity": "HQHOyoBBi2yUh3GVe3ofqscdfvAU2nZNosVPuHgoWTI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -773,12 +773,12 @@
       "OriginalItemSpec": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-kihjhg9lii.gz",
       "SourceId": "MedInsight",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MedInsight",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=kihjhg9lii}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -787,8 +787,8 @@
       "RelatedAsset": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "eydozzjk39",
+      "Integrity": "pvuIQzf0z9JJWfTV43Q0qAMGZgjPZ4/1FVbl/vIazws=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "kihjhg9lii",
+      "Integrity": "bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zub09dkrxp",
-      "Integrity": "CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=",
+      "Fingerprint": "4t01vugqhv",
+      "Integrity": "qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-kihjhg9lii.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.001926782274"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "518"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"pvuIQzf0z9JJWfTV43Q0qAMGZgjPZ4/1FVbl/vIazws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
+          "Value": "Thu, 16 Jan 2025 04:13:04 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1443"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
+          "Value": "Thu, 16 Jan 2025 04:13:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-kihjhg9lii.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvuIQzf0z9JJWfTV43Q0qAMGZgjPZ4/1FVbl/vIazws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 04:13:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pvuIQzf0z9JJWfTV43Q0qAMGZgjPZ4/1FVbl/vIazws="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.kihjhg9lii.css",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-kihjhg9lii.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001926782274"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "518"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvuIQzf0z9JJWfTV43Q0qAMGZgjPZ4/1FVbl/vIazws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 04:13:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kihjhg9lii"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.kihjhg9lii.css",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 04:13:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "kihjhg9lii"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-bKCYbPkv0vYk8JNTYw0hJH0WD5TdEZq8L0GwVacAr64="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-b9sayid5wm.gz",
+      "Route": "css/site.kihjhg9lii.css.gz",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-kihjhg9lii.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "518"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"pvuIQzf0z9JJWfTV43Q0qAMGZgjPZ4/1FVbl/vIazws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
+          "Value": "Thu, 16 Jan 2025 04:13:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "kihjhg9lii"
         },
         {
           "Name": "label",
@@ -2884,144 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\jqlrad42qh-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-pvuIQzf0z9JJWfTV43Q0qAMGZgjPZ4/1FVbl/vIazws="
         }
       ]
     },
@@ -3622,13 +3622,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-zub09dkrxp.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap.4t01vugqhv.css",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-4t01vugqhv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000029611205"
+          "Quality": "0.000029608575"
         }
       ],
       "ResponseHeaders": [
@@ -3638,15 +3638,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33770"
+          "Value": "33773"
         },
         {
           "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
+          "Value": "\"HQHOyoBBi2yUh3GVe3ofqscdfvAU2nZNosVPuHgoWTI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
+          "Value": "Thu, 16 Jan 2025 04:00:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4t01vugqhv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.4t01vugqhv.css",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 04:00:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4t01vugqhv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.4t01vugqhv.css.gz",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-4t01vugqhv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQHOyoBBi2yUh3GVe3ofqscdfvAU2nZNosVPuHgoWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 04:00:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4t01vugqhv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQHOyoBBi2yUh3GVe3ofqscdfvAU2nZNosVPuHgoWTI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-4t01vugqhv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029608575"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33773"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQHOyoBBi2yUh3GVe3ofqscdfvAU2nZNosVPuHgoWTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 04:00:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3666,13 +3827,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
+          "Value": "W/\"qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
+          "Value": "sha256-qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY="
         }
       ]
     },
@@ -3687,7 +3848,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "293102"
+          "Value": "293104"
         },
         {
           "Name": "Content-Type",
@@ -3695,11 +3856,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
+          "Value": "\"qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
+          "Value": "Thu, 16 Jan 2025 04:00:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3709,13 +3870,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
+          "Value": "sha256-qA4lPjQvMN2w2yCwXrGOIfLi7SZWzscxfyAoiymk1HY="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-zub09dkrxp.gz",
+      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-4t01vugqhv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3724,7 +3885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33770"
+          "Value": "33773"
         },
         {
           "Name": "Content-Type",
@@ -3732,11 +3893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
+          "Value": "\"HQHOyoBBi2yUh3GVe3ofqscdfvAU2nZNosVPuHgoWTI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
+          "Value": "Thu, 16 Jan 2025 04:00:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3754,7 +3915,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps="
+          "Value": "sha256-HQHOyoBBi2yUh3GVe3ofqscdfvAU2nZNosVPuHgoWTI="
         }
       ]
     },
@@ -5841,167 +6002,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-EHv6Fxyfhm4sQaIznaio1clpsqF/v/3Le3ecZHQESCc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-zub09dkrxp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000029611205"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33770"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zub09dkrxp"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "293102"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zub09dkrxp"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css.gz",
-      "AssetFile": "C:\\Users\\kelby\\OneDrive\\Desktop\\MedInsight\\obj\\Debug\\net9.0\\compressed\\3gnhhsu5h9-zub09dkrxp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33770"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 02:37:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zub09dkrxp"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-q9WZtmMnJ+oJNgmN0eeT5IvKsKV1/YleuDnjGVjv4ps="
         }
       ]
     },
@@ -21310,7 +21310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21371,7 +21371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21416,7 +21416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21471,7 +21471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21532,7 +21532,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21577,7 +21577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21632,7 +21632,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21685,7 +21685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21722,7 +21722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21769,7 +21769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21822,7 +21822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21859,7 +21859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 03:27:15 GMT"
+          "Value": "Thu, 16 Jan 2025 04:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
